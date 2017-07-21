@@ -1,2 +1,2 @@
 # Python-Stuff
-Contains code examples from Dan Bader. 
+Contains useful code examples helpful for beginners like me.
