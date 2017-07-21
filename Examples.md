@@ -85,6 +85,12 @@ You can also create a (shallow) copy of a list:
 False
 ```
 
+### 5. Python 3.5+ type annotations
+
+```
+def my_add(a: int, b: int) -> int:
+    return a + b
+```
 
 
 
