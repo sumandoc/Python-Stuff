@@ -1,4 +1,4 @@
-#### 1. How To Check if a File or Directory Exists?
+### 1. How To Check if a File or Directory Exists?
 
 
 See if file exists:
