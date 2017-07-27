@@ -2,11 +2,14 @@
 
 
 See if file exists:
+
 **Method1**
+
 `os.path.exists()`
 
 
 **Method2**
+
 `open()`
 
 `try..except(IOError/FileNotFoundError)`
