@@ -24,7 +24,7 @@ With both functions it’s important to keep in mind that they will only check i
 **Method3**
 
 `pathlib.Path.exists()` and \
-`pathlib.Path.is_file()
+`pathlib.Path.is_file()`
 
 For video, see [here](https://www.youtube.com/watch?v=DvZTW5g82pQ&__s=ce4x51vmize8shbt6e7u).
 
