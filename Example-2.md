@@ -5,8 +5,7 @@ See if file exists:
 
 **Method1**
 
-`import os`
-
+`import os`\
 `os.path.exists()` 
 
  Calling os.path.exists() will return True for files and directories if they exist.
