@@ -18,6 +18,6 @@ See if file exists:
 
 `pathlib.Path.exists()`
 
-For video, see [here[(https://www.youtube.com/watch?v=DvZTW5g82pQ&__s=ce4x51vmize8shbt6e7u).
+For video, see [here](https://www.youtube.com/watch?v=DvZTW5g82pQ&__s=ce4x51vmize8shbt6e7u).
 
 
