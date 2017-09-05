@@ -5,7 +5,7 @@ See if file exists:
 
 **Method1**
 
-`import os`\
+`import os`
 `os.path.exists()` 
 
  Calling os.path.exists() will return True for files and directories if they exist.
@@ -18,12 +18,12 @@ With both functions it’s important to keep in mind that they will only check i
 
 **Method2**
 
-`open()`\
+`open()`
 `try..except(IOError/FileNotFoundError)`
 
 **Method3**
 
-`pathlib.Path.exists()` and \
+`pathlib.Path.exists()` and 
 `pathlib.Path.is_file()`
 
 For video, see [here](https://www.youtube.com/watch?v=DvZTW5g82pQ&__s=ce4x51vmize8shbt6e7u).
